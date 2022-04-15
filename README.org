@@ -1,12 +1,12 @@
 * Spring 2022 - Lab 11
 
-* Last name:
+* Last name: Sucuzhanay
 
-* First name:
+* First name: George
 
-* GitHub username:
+* GitHub username: George-Sucuzhanay  
 
-* Notes:
+* Notes: Complier not working properly not sure if it's my own laptops, the flags issue. All tests were running initially.
 
 
   
